@@ -1,8 +1,8 @@
 ## References
 
-- Code of DnCNN and FFDNet within the foler DnCNN&FFDNet: https://github.com/cszn/KAIR
+- Code of DnCNN and FFDNet within the folder DnCNN&FFDNet: https://github.com/cszn/KAIR
 
-- Code of Noise2Void within the foler Noise2Void: https://github.com/juglab/n2v
+- Code of Noise2Void within the folder Noise2Void: https://github.com/juglab/n2v
 
   
 
